@@ -1,0 +1,7 @@
+requests
+websocket-client
+pandas
+python-dotenv
+kafka-python
+PyMySQL
+streamlit
